@@ -5,6 +5,7 @@
 - 💼 I’m trying to get my first Front-end developer job
 - 📫 You can reach me via Telegram: [@shmobeny](https://t.me/shmobeny)...
 - ✉️ ... or email: danileichenko.bohdan@gmail.com
-- 📂 Also, check my [resume](https://github.com/Shmobeny/Shmobeny/raw/main/CV%20Danileichenko%20Bohdan%20JS%20Trainee.pdf)
+- 📂 Also, check my [resume](https://github.com/Shmobeny/Shmobeny/raw/main/CV%20Danileichenko%20Bohdan%20JS%20Trainee.pdf)...
+- 👨‍💻 ... and pinned repositories
 
-![funny_gif](https://data.whicdn.com/images/188337945/original.gif)
+![funny_gif](https://i.imgur.com/7FZf9uQ.gif)
